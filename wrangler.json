@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "taksimblueapi",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0e6cc530-4326-491a-9d50-d26d6fa23cb7",
+      "database_name": "TaksimBlueDB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
